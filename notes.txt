@@ -1,0 +1,52 @@
+TSQL DATATYPES:
+
+EXACT NUMERICS:
+tinyint
+smallint
+int
+bigint
+bit 1
+decimal 2
+numeric 2
+money
+smallmoney
+
+1 The bit data type is used for storing Boolean values.
+2 The decimal and numeric data types are identical.
+
+APPROXIMATE NUMERICS
+float
+real
+Date and time
+date
+time
+datetime2
+datetimeoffset
+datetime
+smalldatetime
+Character strings
+char
+varchar
+text
+Unicode character strings
+nchar
+nvarchar
+ntext
+Binary strings
+binary
+varbinary
+image
+Other data types
+cursor
+geography 1
+geometry 1
+hierarchyid
+json
+vector
+rowversion
+sql_variant
+table
+uniqueidentifier
+xml
+
+1 The geography and geometry data types are spatial types.
