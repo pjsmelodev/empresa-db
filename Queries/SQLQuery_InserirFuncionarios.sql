@@ -1,0 +1,3 @@
+INSERT INTO Funcionarios (Nome, Cargo, Salario, DepartamentoID, DataContratacao) VALUES ('Ana Silva', 'Analista', 3500.00, 1, '2023-01-15');
+INSERT INTO Funcionarios (Nome, Cargo, Salario, DepartamentoID, DataContratacao) VALUES ('Carlos Santos', 'Desenvolvedor', 5000.00, 2, '2022-07-10');
+INSERT INTO Funcionarios (Nome, Cargo, Salario, DepartamentoID, DataContratacao) VALUES ('Fernanda Costa', 'Contadora', 4500.00, 3, '2021-03-05');
